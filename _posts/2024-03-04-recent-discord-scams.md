@@ -20,7 +20,7 @@ In recent times, a new scam has emerged within the Discord community, preying on
 
 **Investigative Pursuit: Unraveling the Mystery**
 
-Determined to uncover the intricacies of this scam, my colleague Yavor and I went journey of reverse engineering the JavaScript (JS) code used by the perpetrators. However, our efforts were met with many roadblocks as the malicious actors had gone to great lengths to obfuscate the code, rendering it virtually unreadable. Despite our persistent attempts at decryption, we stumbled upon a weird revelation: a government/NASA moon mapping mission page, devoid of any discernible user interface. Curiously, the page contained cryptic coordinates, project names, and launch site/dates, hinting at a deeper connection to the origins of the scam. Alas, our investigation reached an impasse as the enigmatic JS code continued to elude our comprehension.
+Determined to uncover the intricacies of this scam, my colleague Yavor and I went journey of reverse engineering the JavaScript (JS) code used by the perpetrators. However, our efforts were met with many roadblocks as the malicious actors had gone to great lengths to obfuscate the code, rendering it virtually unreadable. Despite our persistent attempts at decryption, we stumbled upon a weird revelation: a government/NASA moon mapping mission page, devoid of any discernible user interface. Curiously, the page contained cryptic coordinates, project names, and launch site/dates, hinting at a deeper connection to the origins of the scam. Alas, our investigation reached an end as the unreadable JS code would have taken too much time to decode.
 
 **Combatting the Threat: A Call to Action for Discord**
 
@@ -32,10 +32,11 @@ Furthermore, Discord should institute rigorous scanning and verification protoco
 
 In conclusion, it is imperative for Discord to remain vigilant against the ever-evolving landscape of cyber threats. By prioritizing user safety and implementing proactive security measures, Discord can fortify its platform against emerging risks and uphold its commitment to providing a secure online environment for millions of users worldwide.
 
+---
+
 **Thank You for Joining The Nexus Chronicles**
 
 We extend our gratitude to you, our esteemed readers, for entrusting us with your attention and commitment to cybersecurity awareness. Together, let us forge ahead in our quest for a safer digital future.
 
----
 
 *The Nexus Chronicles: Your Beacon of Security in the Digital Frontier*
