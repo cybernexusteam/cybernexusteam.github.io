@@ -2,7 +2,7 @@
 layout: post
 title: A New Scam Is In Town
 subtitle: Why is Discord letting this happen
-cover-img: assets/img/discord_banner.jpg
+cover-img: assets/img/discordbanner.jpg
 thumbnail-img: assets/img/Screenshot 2024-03-04 212037.png
 tags: [Cybersecurity, Malware, Scam, Nexus Chronicle]
 author: Om Dwivedi
