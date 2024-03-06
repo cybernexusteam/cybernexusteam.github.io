@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: The Nexus Chronicles
 subtitle: All posts by The Nexus Chronicles
 excerpt_length: 50
