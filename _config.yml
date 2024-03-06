@@ -23,7 +23,7 @@ navbar-links:
     - CyberPatriot: "https://www.uscyberpatriot.org/"
     - NCL: "https://nationalcyberleague.org/"
     - Crack The Code: "https://crackthecode.dev/"
-  Blog Posts: "_posts"
+  Blog Posts: "Blog Posts"
 
 ################
 # --- Logo --- #
