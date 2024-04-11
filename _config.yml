@@ -9,7 +9,6 @@
 # Name of website
 title: CyberNexus Team
 
-# Your name to show in the footer
 author: Om Dwivedi
 
 ###############################################
@@ -44,27 +43,9 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: 
-#  xing: yourname
-#  stackoverflow: 
-#  snapchat: 
-#  instagram: 
-#  spotify: yourname
-#  telephone: 
-#  steam:
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-
+#  linkedin: yourname
+#  stackoverflow: yourname
+#  instagram:  yourname
 ###########################
 # --- General options --- #
 ###########################
@@ -75,6 +56,7 @@ share-links-active:
   facebook: true
   linkedin: true
   vk: false
+  instagram: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -92,13 +74,7 @@ feed_show_tags: true
 # Add a search button to the navbar
 post_search: true
 
-# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
-
-# Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
-# If this setting is off, then long sub-menu words might get cut off
-# See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
